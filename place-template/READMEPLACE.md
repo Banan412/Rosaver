@@ -15,4 +15,4 @@ The Script reads the item information from Roblox launch data, waits for the pla
 
 ## Downloadable `.rbxl` template
 
-[Download `rosaverplace.rbxl`](rosaverplace.rbxl) [Releases Tab `Releases`](releases/latest), open it in Studio, and select **File → Publish to Roblox As…**. Choose your own group and create a new experience.
+[Download `rosaverplace.rbxl`](rosaverplace.rbxl) [Releases Tab `Releases`](main/releases/latest), open it in Studio, and select **File → Publish to Roblox As…**. Choose your own group and create a new experience.

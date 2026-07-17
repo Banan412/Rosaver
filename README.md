@@ -1,6 +1,6 @@
 # RoSaver
 
-RoSaver is a Tampermonkey helper for eligible Roblox Marketplace avatar-item purchases. It sends the selected item to an experience you control, where Roblox displays its own native purchase prompt.
+RoSaver Remake is a Tampermonkey helper for eligible Roblox Marketplace avatar-item purchases. It sends the selected item to an experience you control, where Roblox displays its own native purchase prompt. It is also a remake of original Rosaver made by "Fern" that is outdated, but this version fixes it.
 
 > RoSaver does not bypass Roblox checkout, create Robux, or guarantee a payout. Roblox determines whether a transaction is eligible and the final amount.
 

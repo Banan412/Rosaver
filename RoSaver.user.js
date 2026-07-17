@@ -3,7 +3,7 @@
 // @namespace    https://www.roblox.com/
 // @version      1.7.0
 // @description  Sends a selected Roblox item to your game, where Roblox can show its native purchase prompt.
-// @author       You
+// @author       @Banan412 on github, @banana_2137 on discord
 // @match        https://www.roblox.com/*
 // @match        https://web.roblox.com/*
 // @grant        GM.getValue

@@ -34,7 +34,7 @@ Follow the [place template guide](place-template/READMEPLACE.md) to set it up in
 
 ## Download the place template
 
-[Download `rosaverplace.rbxl`](place-template/rosaverplace.rbxl) or in [Releases Tab `Release`](releases/latest), open it in Roblox Studio, then select **File → Publish to Roblox As…** and create a new experience owned by your own group. Do not publish over an existing experience you do not own.
+[Download `rosaverplace.rbxl`](place-template/rosaverplace.rbxl) or in [Releases Tab `Release`](https://github.com/Banan412/Rosaver/releases/latest), open it in Roblox Studio, then select **File → Publish to Roblox As…** and create a new experience owned by your own group. Do not publish over an existing experience you do not own.
 
 ## Requirements and notes
 
